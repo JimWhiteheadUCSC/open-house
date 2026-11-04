@@ -1,0 +1,26 @@
+{
+  "name": "Grand Tour",
+  "color": [
+    255,
+    255,
+    255
+  ],
+  "pieces": [
+    "passerby.js",
+    "inspiral.js",
+    "noctiluca-bay.js",
+    "revontulet.js",
+    "kagome-weave-triaxial-bamboo-lattice-plate.js",
+    "copper-dawn.js",
+    "mawari-doro.js",
+    "the-sea-takes-back-the-map.js",
+    "city-discount-septet-in-eight-chords.js",
+    "sodium-rain.js",
+    "lichen.js",
+    "vespers.js",
+    "saccades-after-molnar.js",
+    "the-flaw-travels.js",
+    "sympathetic.js",
+    "wilson-cloud-chamber.js"
+  ]
+}
