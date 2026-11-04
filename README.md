@@ -2,9 +2,9 @@
 
 The panel as a host: a tour of the whole collection, something bright to read from across the room, and something dim for after everyone has gone home.
 
-A multicart of 3 packs for [Grid Runner](https://github.com/JimWhiteheadUCSC/grid-runner), a generative art player for 64×64 LED panels.
+A multicart of 3 carts for [Grid Runner](https://github.com/JimWhiteheadUCSC/grid-runner), a generative art player for 64×64 LED panels.
 
-Each pack is its own bank.
+Each cart is its own bank.
 
 ## Install
 
@@ -18,7 +18,7 @@ pieces that move.
 
 ## Grand Tour
 
-One strong piece from each of thirteen themed packs, plus one each from Standing Waves, After Dark and Across the Room. Load it first, or show it to a visitor: one bank that shows the range and points to the other packs. It’s the one pack here that’s openly a sampler.
+One strong piece from each of thirteen themed carts, plus one each from Standing Waves, After Dark and Across the Room. Load it first, or show it to a visitor: one bank that shows the range and points to the other carts. It’s the one cart here that’s openly a sampler.
 
 ![Grand Tour](grand-tour/preview.png)
 
