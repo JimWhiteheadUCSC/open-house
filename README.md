@@ -9,7 +9,7 @@ Each pack is its own bank.
 ## Install
 
 ```bash
-cd grid-runner/packs
+cd grid-runner/carts
 git clone https://github.com/JimWhiteheadUCSC/open-house.git
 ```
 
